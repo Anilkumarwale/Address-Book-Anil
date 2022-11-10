@@ -9,9 +9,9 @@ We build the address book project with the help of Tkinter module and basic pyth
 Tkinter is a standard GUI library for rendering graphics
 To install the library we use the pip install command in the command prompt:
 
-These are the step to build a contact book python project:
+These are the step to build a address book python project:
 
-Importing module
-Initializing window
-Define buttons
+Importing module,
+Initializing window,
+Define buttons,
 Define functions
